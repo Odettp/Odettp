@@ -1,16 +1,14 @@
 ### Holiiss, Soy Odett Dánae 👋
 
+✨ About Me ✨
+Developer con experiencia en el desarrollo de
+aplicaciones web con tecnologías, conocimientos en prácticas ágiles para el desarrollo y
+ejecución de proyectos en tecnología(Scrum)
 
-**odettp/odettp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌎 Venezolana viviendo en Chile
+- 👩🏼‍💻 Aprendiz de por vida
+- 😻 Amante de los gatos
+- 🌄 Apasionada por la naturaleza
+- 👯 Busco colaborar con otros
+profesionales y enfrentar juntos nuevos retos
 
