@@ -5,14 +5,12 @@
 </div>
 
 ###
+---
 
-✨ About Me ✨
-
-<br>
-
-Developer con experiencia en el desarrollo de
+<h3 align="left">✨ About Me 🌸 </h3>
+<p align="left">Developer con experiencia en el desarrollo de
 aplicaciones web con tecnologías, conocimientos en prácticas ágiles para el desarrollo y
-ejecución de proyectos en tecnología(Scrum)
+ejecución de proyectos en tecnología(Scrum)</p>
 
 <br>
 
