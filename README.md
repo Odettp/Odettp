@@ -21,8 +21,7 @@ ejecución de proyectos en tecnología(Scrum)</p>
 - 👯 Actualmente busco colaborar con otros
 profesionales y enfrentar juntos nuevos retos
 
-###
----
+<br>
 
 ### Herramientas ⚒️
 <p align="center">
