@@ -1,6 +1,15 @@
-### Holiiss, Soy Odett Dánae 👋
+<div align="center"> 
+  
+  ### Holiiss, Soy Odett Dánae 👋
+  
+</div>
+
+###
 
 ✨ About Me ✨
+
+<br>
+
 Developer con experiencia en el desarrollo de
 aplicaciones web con tecnologías, conocimientos en prácticas ágiles para el desarrollo y
 ejecución de proyectos en tecnología(Scrum)
