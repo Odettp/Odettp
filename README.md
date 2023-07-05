@@ -9,6 +9,6 @@ ejecución de proyectos en tecnología(Scrum)
 - 👩🏼‍💻 Aprendiz de por vida
 - 😻 Amante de los gatos
 - 🌄 Apasionada por la naturaleza
-- 👯 Busco colaborar con otros
+- 👯 Actualmente busco colaborar con otros
 profesionales y enfrentar juntos nuevos retos
 
