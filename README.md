@@ -8,9 +8,7 @@
 ---
 
 <h3 align="left">✨ About Me 🌸 </h3>
-<p align="left">Developer con experiencia en el desarrollo de
-aplicaciones web con tecnologías, conocimientos en prácticas ágiles para el desarrollo y
-ejecución de proyectos en tecnología(Scrum)</p>
+<p align="left">Developer con experiencia en el desarrollo de aplicaciones web con tecnologías. Además de conocimientos en prácticas ágiles para el desarrollo y ejecución de proyectos en tecnología (Scrum). Mi disposición a aprender me permiten abordar los desafíos con entusiasmo y encontrar soluciones creativas en conjunto</p>
 
 <br>
 
